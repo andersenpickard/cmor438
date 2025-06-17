@@ -6,19 +6,15 @@ This project implements and analyzes the Perceptron algorithm applied to the bre
 
 Perceptron is a simple classification algorithm. It builds a linear decision boundary separating two features by updating weights based on prediction errors. The boundary should be interpreted as a firm threshold between the two features.
 
-The perceptron model is defined as:
+In simpler terms, the perceptron model learns to separate data into two categories by finding a linear decision boundary that best divides the data points.
 
+In this project, I am using the Perceptron Algorithm to classify whether a cancerous site is benign or malignant. I explore four different features in two different examples. The first uses the `worst perimeter` and `worst area` features. The second uses the `worst concavity` and `worst symmetry`.
 
-Weights 
-w
- and bias 
-b
- are updated through the perceptron learning rule each time the model misclassifies a training example.
+A visualization/mapping of the Perceptron logic is shown below. 
 
-The perceptron works best on linearly separable datasets and does not produce probabilistic outputs. It is a deterministic, mistake-driven learner that converges only if a perfect linear separator exists.
+![Perceptron Algorithm Map](perceptron_algorithm_map.png)
 
-In this project, we use the Perceptron to classify whether an MLB player is an All-Star or not, based on Statcast features such as exit velocity, barrel percentage, and launch angle.
-
+_Image Source: Akshay L Chandr / Medium_
 
 ## Dataset
 
