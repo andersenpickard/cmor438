@@ -4,19 +4,16 @@ This project implements and analyzes Neural Networks applied to a dataset of MLB
 
 ## What are Neural Networks?
 
-Logistic regression is a supervised machine learning algorithm that predicts the probability of a certain outcome through binary classification. The model determines probability through just two possible outcomes: 1/true, 2/false. 
+A neural network is a collection of neurons that use input data, process information from other nodes, and develop an output without programmed rules. 
 
-By classifying every outcome as either true or false, logistic regression provides a clear prediction (essentially a yes/no or true/false) rather than a scale for a certain outcome. For example, if a student developed a logistic regression model to determine the probability of them being admitted into a certain college, they would receive a clear "yes" or "no" answer rather than an interpretable probability, like "78%."
+A neural network is made up of densely connected processing nodes, and data science neural networks are intended to mirror the neural networks found in mammal brains. Each node within the network connects to other nodes, and together, they move data through the network in one direction. 
 
-The equation for logistic regression with one feature is:
+Neural networks make decisions by assigning each connected node to a weight, which represents the value of information assigned to an individual node. When a node receives information from other nodes, it calculates the total weight, and if that weight exceeds a certain threshold, the information is passed on to the next layer. If the weight is below the threshold, the information is not passed on.
 
-![Logsitic Regression](log_reg_fun.png)
+A neural network is a corrective feedback loop, which means a larger weight is given to correct (true) predictions. This allows the model to develop increased accuracy over time.
 
-The equation for logistic regression with multiple features is:
-
-![Multiple Logistic Regression](multiple_log_eqn.png)
-
-Logistic regression works best when the data in the dataset are linearly separable, which is the case with the example shown in this section. In my implementation of logistic regression here, I am analyzing a variety of features to predict whether the MLB players in the dataset will be classified as a power hitter. (For the sake of this implementation, I am classifying a "power hitter" as a .450+ slugging percentage.) This works because the outcome is going to be a binary observation. Rather than predicting their exact slugging percentage, I am predicting whether their status as a power hitter is "true" or "false."
+![Neural Network Visualization](neural_net_viz.png)
+_Image Credit: Ramya Vidiyala / Medium_
 
 ## Dataset
 
