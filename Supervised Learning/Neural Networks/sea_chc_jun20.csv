@@ -1,0 +1,59 @@
+Batter,Pitcher,PA,Inning,Result,Exit Velo,LA,Hit Dist.,Bat Speed,Pitch Velocity,xBA,HR / Park
+J.P. Crawford,Matthew Boyd,1,1,Groundout,100.4,-7,16,⚡78.8,93.1,0.27,
+Julio Rodríguez,Matthew Boyd,2,1,Flyout,99,36,364,⚡78.4,79,0.2,2/30
+Cal Raleigh,Matthew Boyd,3,1,Home Run,98.4,24,381,⚡80.8,94.6,0.39,1/30
+Ian Happ,George Kirby,5,1,Home Run,103.5,34,425,73.6,95.9,0.58,28/30
+Kyle Tucker,George Kirby,6,1,Single,103.3,3,76,71.9,96.5,0.56,
+Seiya Suzuki,George Kirby,7,1,Double,104.4,18,322,73.4,88.5,0.5,0/30
+Pete Crow-Armstrong,George Kirby,8,1,Pop Out,62,82,41,66.1,84.8,0,
+Michael Busch,George Kirby,10,1,Single,92.2,18,265,69.3,85.2,0.62,
+Nico Hoerner,George Kirby,11,1,Flyout,79.1,44,261,67.3,88.2,0.05,
+Mitch Garver,Matthew Boyd,12,2,Pop Out,88.8,74,110,74.5,94.6,0.01,
+Matt Shaw,George Kirby,15,2,Groundout,75.4,-35,3,61.8,87.7,0.07,
+Ian Happ,George Kirby,17,2,Lineout,90.4,22,307,74.5,86.4,0.17,0/30
+Ben Williamson,Matthew Boyd,18,3,Groundout,102.7,-1,33,70.1,80.6,0.45,
+J.P. Crawford,Matthew Boyd,20,3,Groundout,70.1,10,124,68.9,93.6,0.28,
+Kyle Tucker,George Kirby,21,3,Double,102.1,23,404,⚡78.8,84,0.62,0/30
+Seiya Suzuki,George Kirby,22,3,Flyout,79.9,34,300,71.3,95.3,0.05,0/30
+Pete Crow-Armstrong,George Kirby,23,3,Pop Out,86.4,87,24,74.7,86.9,0,
+Dansby Swanson,George Kirby,24,3,Flyout,82.7,45,286,70.2,95.3,0.01,
+Julio Rodríguez,Matthew Boyd,25,4,Lineout,107.8,18,359,⚡77.4,78.7,0.69,0/30
+Donovan Solano,Matthew Boyd,29,4,Single,100.9,16,278,66.3,93.7,0.59,
+Dylan Moore,Matthew Boyd,30,4,Pop Out,46.8,63,93,67.7,93.2,0.02,
+Michael Busch,George Kirby,31,4,Single,88.8,19,246,73.8,94.8,0.65,
+Nico Hoerner,George Kirby,32,4,Forceout,98.8,1,55,69.5,94.3,0.46,
+Matt Shaw,George Kirby,33,4,Double Play,98.5,5,122,,95.9,0.5,
+Ben Williamson,Matthew Boyd,34,5,Pop Out,73.4,67,145,71.9,93,0,
+J.P. Crawford,Matthew Boyd,36,5,Lineout,104.7,5,130,72.9,91.8,0.6,
+Reese McGuire,George Kirby,37,5,Home Run,101.8,28,399,69,95.7,0.71,28/30
+Ian Happ,George Kirby,38,5,Flyout,95,36,341,⚡75.8,85.9,0.11,0/30
+Seiya Suzuki,George Kirby,40,5,Flyout,101.7,44,356,⚡77.0,85.6,0.07,0/30
+Julio Rodríguez,Ryan Pressly,42,6,Groundout,105.3,8,152,71.2,93.4,0.67,
+Cal Raleigh,Ryan Pressly,43,6,Flyout,93,41,324,⚡76.8,93.5,0.01,0/30
+Randy Arozarena,Ryan Pressly,44,6,Double,104.8,19,342,72.7,92.9,0.56,0/30
+Mitch Garver,Ryan Pressly,45,6,Home Run,105,41,414,⚡76.1,94.2,0.35,29/30
+Luke Raley,Ryan Pressly,47,6,Double,109.8,13,246,73.8,88.6,0.82,
+Dansby Swanson,Eduard Bazardo,49,6,Groundout,91.9,-2,32,72.3,81.8,0.37,
+Michael Busch,Eduard Bazardo,50,6,Single,91.2,16,196,⚡75.5,81.8,0.92,
+Nico Hoerner,Eduard Bazardo,51,6,Double Play,82,6,111,57.7,93.3,0.4,
+Cole Young,Caleb Thielbar,52,7,Flyout,78.9,45,261,57.8,83.9,0.04,
+Julio Rodríguez,Caleb Thielbar,54,7,Single,106.6,2,91,⚡78.2,94.9,0.55,
+Cal Raleigh,Caleb Thielbar,55,7,Home Run,106.3,27,419,⚡81.3,94.2,0.97,30/30
+Randy Arozarena,Caleb Thielbar,56,7,Double,74.4,31,258,61.1,76.4,0.43,
+Matt Shaw,Carlos Vargas,58,7,Lineout,83,23,274,67.3,97,0.39,
+Ian Happ,Carlos Vargas,60,7,Flyout,79.9,38,276,⚡80.0,93.2,0.03,
+Kyle Tucker,Gabe Speier,61,7,Groundout,83.4,-11,16,69.5,94,0.09,
+Donovan Solano,Ryan Brasier,62,8,Double,90.8,13,183,71.3,85.5,0.95,
+Ben Williamson,Ryan Brasier,64,8,Lineout,93,17,283,70.9,85.6,0.69,
+Cole Young,Ryan Brasier,65,8,Groundout,68.2,-36,3,⚡76.3,94.6,0.08,
+Pete Crow-Armstrong,Matt Brash,67,8,Pop Out,71.6,87,63,69.7,88.1,0,
+Dansby Swanson,Matt Brash,68,8,Groundout,47.9,-38,7,72.4,87.5,0.24,
+Michael Busch,Matt Brash,69,8,Groundout,99.2,,48,⚡75.6,87.6,0.44,
+J.P. Crawford,Génesis Cabrera,70,9,Flyout,76.8,54,221,70.9,94.7,0.06,
+Cal Raleigh,Génesis Cabrera,72,9,Single,90.7,6,100,74.6,86.1,0.48,
+Randy Arozarena,Génesis Cabrera,73,9,Single,112.2,4,90,⚡79.2,95.7,0.67,
+Mitch Garver,Génesis Cabrera,74,9,Home Run,101.9,38,394,72,92.8,0.31,12/30
+Donovan Solano,Génesis Cabrera,75,9,Single,90.1,13,178,71.3,85.6,0.92,
+Luke Raley,Génesis Cabrera,76,9,Flyout,85.9,57,243,⚡75.9,97,0.03,
+Nico Hoerner,Casey Legumina,77,9,Single,101.6,8,171,69.3,81.4,0.69,
+Reese McGuire,Casey Legumina,79,9,GIDP,68.1,-8,15,52.4,87.3,0.05,
