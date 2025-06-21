@@ -4,10 +4,11 @@ By classifying every outcome as either true or false, logistic regression provid
 
 The equation for logistic regression with one feature is:
 
+![Logsitic Regression](log_reg_fun.png)
 
 The equation for logistic regression with multiple features is:
 
-
+![Multiple Logistic Regression](multiple_log_eqn.png)
 
 Logistic regression works best when the data in the dataset are linearly separable, which is the case with the example shown in this section. In my implementation of logistic regression here, I am analyzing a variety of features to predict whether the MLB players in the dataset will be classified as a power hitter. (For the sake of this implementation, I am classifying a "power hitter" as a .450+ slugging percentage.) This works because the outcome is going to be a binary observation. Rather than predicting their exact slugging percentage, I am predicting whether their status as a power hitter is "true" or "false."
 
