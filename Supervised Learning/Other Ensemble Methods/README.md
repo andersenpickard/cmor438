@@ -19,3 +19,4 @@ I am using FanGraphs' hitters dataset from their leaderboards tool. All data was
 
 The features used for this exploration are: 'Barrel%', 'BB%', 'K%', 'HardHit%', 'Pull%', 'HR/FB'
 
+The target feature is fWAR (FanGraphs' wins above replacement).
