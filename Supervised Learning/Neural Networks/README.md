@@ -21,4 +21,4 @@ I am using Baseball Savant's game dataset from their direct gameday link for the
 
 ## Exploration
 
-The features used for this logistic regression include exit velocity, launch angle, hit distance, bat speed, pitch velocity, and expected batting average.
+The features used for this exploration include exit velocity, launch angle, hit distance, bat speed, pitch velocity, and expected batting average.
