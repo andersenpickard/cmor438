@@ -17,11 +17,10 @@ _Image Credit: Pranshu Sharma_
 
 ## Dataset
 
-I am using FanGraphs' hitters dataset from their leaderboards tool. All data was accumulated between Opening Day and the morning of June 25, 2025. This data is compiled by FanGraphs and Baseball Savant and is publicly available online for free. This dataset contains 160 observations with 69 features. Columns include counting stats, expected stats, rate stats, and more.
+I am using Baseball Savant's pitchers dataset from their custom leaderboards tool. All data was accumulated between Opening Day and the morning of June 26, 2025. This data is compiled by Baseball Savant and is publicly available online for free. This dataset contains 119 observations with 10 features. Columns include five rate stats regarding pitch location and result. 
 
 ## Exploration
 
-The features used for this exploration are: 'Barrel%', 'BB%', 'K%', 'HardHit%', 'Pull%', 'HR/FB'
+I have selected five features that adequately contextualize a pitcher's performance over the course of the season. For all five, a greater positive percentage is better for the pitcher, and a lower positive percentage is worse for the pitcher. The percentages all relate to a pitcher's ability to induce weak contact and get results in/out of the zone. 
 
-The target feature is fWAR (FanGraphs' wins above replacement).
-
+The features used for this exploration are: 'poorlyweak_percent', 'in_zone_percent', 'z_swing_percent', 'oz_swing_percent', 'whiff_percent'
