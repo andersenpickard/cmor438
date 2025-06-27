@@ -1,6 +1,6 @@
-## K-Means Clustering: MLB Pitcher Dataset
+## K-Means Clustering and Principal Component Analysis: MLB Pitcher Dataset
 
-This project implements K-Means Clustering applied to a dataset of MLB pitcher statistics from Baseball Savant.
+This project implements K-Means Clustering and Principal Component Analysis applied to a dataset of MLB pitcher statistics from Baseball Savant.
 
 ## What is K-Means Clustering?
 
@@ -14,6 +14,16 @@ In my project, I am also including Principal Component Analysis. PCA can be loop
 
 ![K-Means Clustering Visualization](kmeans_viz.png)
 _Image Credit: Pranshu Sharma_
+
+## What is Principal Component Analysis?
+
+Principal Component Analysis (PCA) is a statistical process that simplifies datasets by reducing their dimensionality while preserving variance. It transforms the original features into a new set of uncorrelated variables called principal components. 
+
+PCA is especially useful when working with datasets that have many variables because it can reveal patterns and underlying structures that might not be apparent in the raw data, especially to the basic human eye during a simple observation.
+
+PCA effectively identifies eigenvectors in which data varies the most. These eigenvectors correspond to the axes of a new coordinate system, with the first principal component capturing the most variance, and so on. These components are computed from the eigenvectors of the data’s covariance matrix and the amount of variance captured by each component is indicated by its corresponding eigenvalue. 
+
+PCA is commonly used in exploratory data analysis and image compression, such as what I'm doing here by using PCA as a complementary means of analysis. In this example, I am using PCA to assist with adding colors and background to the clustering process within my K-Means Clustering implementation.
 
 ## Dataset
 
