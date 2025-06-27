@@ -14,7 +14,7 @@ When dealing with color/RGB images (3-D intensities), SVD compression is applied
 
 SVD-based compression offers a solution to situations where storage space is limited, such as websites, apps, mobile devices, or other disks/memory cards. SVD is a lossy compression method, which means that some information is discarded in the process, but it only loses the least important visual elements. The result is a smaller image that still maintains a very high visual quality. 
 
-![Image Compression with SVD Visualization](svd_viz.png)
+![Image Compression with SVD Visualization](svd_viz.jpg)
 
 ## Files
 
